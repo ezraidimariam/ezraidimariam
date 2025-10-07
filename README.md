@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm Maryam
+## 👋 Hey there! I'm Mariam
 
 Welcome to my GitHub profile 💻  
 Here’s where I share my projects, ideas, and code experiments 🚀
