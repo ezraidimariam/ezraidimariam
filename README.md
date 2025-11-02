@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Mariam!
 
 Welcome to my GitHub profile 💻  
-I'm a **student at YC**, passionate about coding, learning new technologies, and building projects one step at a time 🚀
+I'm a **student at YOUCODE**, passionate about coding, learning new technologies, and building projects one step at a time 🚀
 
 ---
 
@@ -28,7 +28,7 @@ I'm a **student at YC**, passionate about coding, learning new technologies, and
 
 ---
 
-✨ *"Building one line of code at a time, learning every day at YC..."*  
+✨ *"Building one line of code at a time, learning every day at YOUCODE..."*  
 
-📊 **GitHub Stats**  
-![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+📊![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariamEzraidi&show_icons=true&theme=radical)
+
