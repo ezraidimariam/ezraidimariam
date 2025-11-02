@@ -1,7 +1,7 @@
-## 👋 Hi, I'm Mariam!
+## 👋 Hi, I'm Mariam Ezraidi!
 
 Welcome to my GitHub profile 💻  
-I'm a **student at YOUCODE**, passionate about coding, learning new technologies, and building projects one step at a time 🚀
+I'm a **student at YOUCODE**, passionate about coding, learning new technologies, and building projects one step at a time 
 
 ---
 
