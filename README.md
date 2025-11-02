@@ -1,15 +1,34 @@
-## 👋 Hey there! I'm Mariam
+## 👋 Hi, I'm Mariam!
 
 Welcome to my GitHub profile 💻  
-Here’s where I share my projects, ideas, and code experiments 🚀
+I'm a **student at YC**, passionate about coding, learning new technologies, and building projects one step at a time 🚀
 
 ---
 
-### 🌐 Connect with me:
-
-[![Discord](https://img.shields.io/badge/Discord-ezraidii-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1127921113884807200)
-[![Instagram](https://img.shields.io/badge/Instagram-mariam__ezraidi-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/mariam_ezraidi)
+### 🎯 Currently Learning
+- **Web Development:** HTML, CSS, JavaScript  
+- **Frameworks:** React, Node.js  
+- **Databases:** MongoDB, MySQL  
+- **Other:** Git, GitHub, Figma  
 
 ---
 
-✨ *"Building one line of code at a time..."*
+### 💡 Skills
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, VS Code, Figma  
+
+---
+
+### 🌐 Connect with me
+[![Discord](https://img.shields.io/badge/Discord-ezraidii-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1127921113884807200)  
+[![Instagram](https://img.shields.io/badge/Instagram-mariam__ezraidi-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/mariam_ezraidi)  
+
+
+---
+
+✨ *"Building one line of code at a time, learning every day at YC..."*  
+
+📊 **GitHub Stats**  
+![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
