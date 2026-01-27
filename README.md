@@ -1,34 +1,71 @@
-## 👋 Hi, I'm Mariam Ezraidi!
+# 👋 Hi, I'm Mariam Ezraidi  
 
-Welcome to my GitHub profile 💻  
-I'm a **student at YOUCODE**, passionate about coding, learning new technologies, and building projects one step at a time ..
+💻 **Full-Stack Web Developer in training @ YOUCODE**  
+I’m passionate about building modern web applications, learning new technologies, and turning ideas into real projects.
 
----
-
-### 🎯 Currently Learning
-- **Web Development:** HTML, CSS, JavaScript  
-- **Frameworks:** React, Node.js  
-- **Databases:** MongoDB, MySQL  
-- **Other:** Git, GitHub, Figma  
+✨ *“Building one line of code at a time, learning every day at YOUCODE.”*
 
 ---
 
-### 💡 Skills
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB, MySQL  
-- **Tools:** Git, VS Code, Figma  
+## 🚀 About Me  
+- 🎓 Student at **YOUCODE**
+- 💡 Passionate about **Web Development & Problem Solving**
+- 🛠 Currently building projects using **Laravel & modern web technologies**
+- 🌱 Always learning and improving my skills  
 
 ---
 
-### 🌐 Connect with me
-[![Discord](https://img.shields.io/badge/Discord-ezraidii-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1127921113884807200)  
-[![Instagram](https://img.shields.io/badge/Instagram-mariam__ezraidi-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/mariam_ezraidi)  
-[![Gmail](https://img.shields.io/badge/Gmail-maezraid@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:maezraid@gmail.com)
+## 🧠 Tech Stack  
 
+### 🖥️ Frontend  
+- HTML  
+- CSS  
+- JavaScript  
+
+### ⚙️ Backend  
+- PHP  
+- Laravel  
+- Node.js  
+- Express  
+
+### 🗄️ Databases  
+- MySQL  
+- MongoDB  
+
+### 🛠 Tools & Technologies  
+- Git & GitHub  
+- VS Code  
+- Composer  
+- Figma  
+- Postman  
 
 ---
 
-✨ *"Building one line of code at a time, learning every day at YOUCODE..."*  
+## 📚 Currently Learning  
+- Advanced **Laravel (MVC, Routing, Eloquent, Authentication)**  
+- REST APIs  
+- Database Design  
+- Agile & Scrum  
+- Clean Code & Best Practices  
 
+---
 
+## 📌 Projects  
+Here are some of the things I’m working on or have built:  
+- 🍲 **Recipe Sharing Platform** (Laravel, MySQL)  
+- 🧑‍💻 **Authentication System** (Login / Register)  
+- 🌐 **Responsive Websites**  
+- 📊 CRUD Applications  
+
+*(More projects coming soon 🚀)*  
+
+---
+
+## 🌐 Connect with Me  
+- 💬 **Discord**  
+- 📷 **Instagram**  
+- 📧 **Gmail**  
+
+---
+
+⭐ *Feel free to explore my repositories and follow my journey as a developer!*
