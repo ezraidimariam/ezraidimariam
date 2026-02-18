@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 About Me  
+##  About Me  
 
 I’m **Mariam Ezraidi**, a passionate **Full-Stack Developer** from Morocco 🇲🇦 currently studying at **YOUCODE**.  
 I love turning ideas into real applications using **Laravel, PHP, JavaScript, and modern web technologies**.
