@@ -51,18 +51,6 @@ I love turning ideas into real applications using **Laravel, PHP, JavaScript, an
 
 ---
 
-## 🚀 Featured Projects  
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🍲 Recipe Platform | Users share, edit & discover recipes | Laravel, MySQL |
-| 🔐 Auth System | Login & Register system | PHP, Laravel |
-| 📊 CRUD App | Manage data easily | Laravel |
-| 🌍 Portfolio Website | Personal portfolio | HTML, CSS, JS |
-
-*(More amazing projects coming soon…)*
-
----
 
 ## 🌐 Connect With Me  
 
