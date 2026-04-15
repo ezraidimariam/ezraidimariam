@@ -1,85 +1,113 @@
 <h1 align="center">👋 Hi, I'm Mariam Ezraidi</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | Laravel Enthusiast</h3>
 
 <p align="center">
-  <i>Building impactful web applications with clean, scalable code.</i>
+  🚀 <b>Full-Stack Web Developer | Backend-Focused | Laravel Specialist</b>
+</p>
+
+<p align="center">
+  <i>Crafting scalable, high-performance web applications with clean architecture and modern technologies.</i>
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
+## 🧠 About Me  
 
-I’m **Mariam Ezraidi**, a passionate **Full-Stack Web Developer** from Morocco 🇲🇦, currently training at **YOUCODE**.  
+I’m **Mariam Ezraidi**, a passionate **Full-Stack Developer** from Morocco 🇲🇦.  
+Currently training at **YOUCODE**, I specialize in building robust backend systems and modern web applications.  
 
-💡 I enjoy transforming ideas into real-world applications and continuously improving my technical and problem-solving skills.  
+💡 I focus on writing **clean, maintainable, and scalable code** while constantly improving my technical and problem-solving skills.  
 
-- 🔥 Passionate about **Web Development & Backend Engineering**
-- 🧠 Strong interest in **clean architecture & best practices**
-- ⚡ Love solving complex problems and debugging
-- 🤝 Enjoy working in team environments (Agile / Scrum)
+- 🔥 Strong focus on **Backend Development (Laravel / PHP)**
+- ⚡ Passionate about **API design & system architecture**
+- 🧩 Problem solver with debugging mindset  
+- 🤝 Team player experienced in **Agile / Scrum environments**
+- 🎯 Goal: Become a **Software Engineer in high-impact tech teams**
 
 ---
 
-## 🚀 Tech Stack  
+## 🧰 Tech Stack  
 
-### 🖥 Frontend  
+### 🖥 Frontend Development  
 <p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### ⚙ Backend  
+### ⚙ Backend Development  
 <p>
-  <img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel"/>
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
 </p>
 
-### 🗄 Databases  
+### 🗄 Database & Data Management  
 <p>
-  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🛠 Tools  
+### 🔌 API & Architecture  
 <p>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-darkblue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code"/>
-  <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma"/>
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+- RESTful APIs  
+- MVC Architecture  
+- Authentication (Laravel Sanctum)  
+- Eloquent ORM  
+
+---
+
+### 🛠 Tools & Environment  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+</p>
+
+---
+
+## 🧪 Development Practices  
+
+- ✅ Clean Code Principles  
+- ✅ SOLID Principles  
+- ✅ MVC Architecture  
+- ✅ Debugging & Performance Optimization  
+- ✅ Git Workflow & Version Control  
+- ✅ Agile / Scrum Methodology  
+
+---
+
+## 🚀 Featured Projects  
+
+🔹 **EVolt API**  
+> REST API for managing electric vehicle charging stations  
+- Laravel API  
+- Authentication with Sanctum  
+- Reservation system  
+- Real-time availability  
+
+🔹 **EasyColoc**  
+> Expense management app for shared apartments  
+- Full-stack Laravel app  
+- CRUD operations  
+- User collaboration  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📚 Currently Learning  
 
-- 🔥 Advanced **Laravel** (Eloquent, API, Authentication, Performance)
-- ⚡ Building **RESTful APIs**
-- 🧠 **Software Architecture & Design Patterns**
-- 🧩 **Clean Code & Best Practices**
-- 🧑‍💻 Agile methodologies (Scrum)
-
----
-
-## 🏆 Projects & Goals  
-
-- 🚀 Building real-world applications using Laravel  
-- 📦 Creating scalable backend systems  
-- 🎯 Improving performance & code quality  
-- 🌍 Preparing for a professional career in software engineering  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
+- 🔥 Advanced Laravel (Queues, Jobs, Performance)  
+- ⚡ System Design Basics  
+- 🧠 Software Architecture Patterns  
+- 🧩 Advanced API Development  
+- 🚀 DevOps Fundamentals  
 
 ---
 
@@ -92,9 +120,9 @@ I’m **Mariam Ezraidi**, a passionate **Full-Stack Web Developer** from Morocco
 ---
 
 <p align="center">
-  ⭐ <b>If you like my work, feel free to follow me and star my repositories!</b> ⭐
+  ⭐ <b>If you like my work, don't forget to follow me and star my repositories!</b> ⭐
 </p>
 
 <p align="center">
-  🚀 <i>Future Software Engineer in progress...</i>
+  🚀 <i>Future Software Engineer — Building, Learning, Growing.</i>
 </p>
