@@ -1,56 +1,87 @@
 <h1 align="center">👋 Hi, I'm Mariam Ezraidi</h1>
-<h3 align="center">Full-Stack Web Developer in Training @ YOUCODE 🚀</h3>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | Laravel Enthusiast</h3>
 
 <p align="center">
-  <i>Building powerful web apps with clean code, one commit at a time.</i>
+  <i>Building impactful web applications with clean, scalable code.</i>
 </p>
 
 ---
 
-##  About Me  
+## 🧑‍💻 About Me  
 
-I’m **Mariam Ezraidi**, a passionate **Full-Stack Developer** from Morocco 🇲🇦 currently studying at **YOUCODE**.  
-I love turning ideas into real applications using **Laravel, PHP, JavaScript, and modern web technologies**.
+I’m **Mariam Ezraidi**, a passionate **Full-Stack Web Developer** from Morocco 🇲🇦, currently training at **YOUCODE**.  
 
-- 🔥 I enjoy building **real-world projects**
-- 🧩 I love solving problems & debugging
+💡 I enjoy transforming ideas into real-world applications and continuously improving my technical and problem-solving skills.  
+
+- 🔥 Passionate about **Web Development & Backend Engineering**
+- 🧠 Strong interest in **clean architecture & best practices**
+- ⚡ Love solving complex problems and debugging
+- 🤝 Enjoy working in team environments (Agile / Scrum)
 
 ---
 
-## ⚙️ Tech Stack  
+## 🚀 Tech Stack  
 
 ### 🖥 Frontend  
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+</p>
 
 ### ⚙ Backend  
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+<p>
+  <img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel"/>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+</p>
 
 ### 🗄 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
+</p>
 
 ### 🛠 Tools  
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-darkblue?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+<p>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-darkblue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma"/>
+</p>
 
 ---
 
 ## 📚 Currently Learning  
 
-- 🔥 Advanced **Laravel** (Eloquent, MVC, Auth, API)
-- 📦 RESTful APIs
-- 🧠 Software Architecture
-- 🧩 Clean Code & Best Practices
-- 🧑‍💻 Agile & Scrum
+- 🔥 Advanced **Laravel** (Eloquent, API, Authentication, Performance)
+- ⚡ Building **RESTful APIs**
+- 🧠 **Software Architecture & Design Patterns**
+- 🧩 **Clean Code & Best Practices**
+- 🧑‍💻 Agile methodologies (Scrum)
 
 ---
 
+## 🏆 Projects & Goals  
+
+- 🚀 Building real-world applications using Laravel  
+- 📦 Creating scalable backend systems  
+- 🎯 Improving performance & code quality  
+- 🌍 Preparing for a professional career in software engineering  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
 
 ## 🌐 Connect With Me  
 
@@ -61,9 +92,9 @@ I love turning ideas into real applications using **Laravel, PHP, JavaScript, an
 ---
 
 <p align="center">
-  <b>⭐ If you like my work, don’t forget to follow me and star my repositories ⭐</b>
+  ⭐ <b>If you like my work, feel free to follow me and star my repositories!</b> ⭐
 </p>
 
 <p align="center">
-  🚀 <i>Future Software Engineer in the making.</i>
+  🚀 <i>Future Software Engineer in progress...</i>
 </p>
