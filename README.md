@@ -1,43 +1,43 @@
 <h1 align="center">👋 Hi, I'm Mariam Ezraidi</h1>
 
 <p align="center">
-  🚀 <b>Full-Stack Web Developer | Backend-Focused | Laravel Specialist</b>
+  🚀 <b>Full-Stack Web Developer | Backend-Focused | Laravel Enthusiast</b>
 </p>
 
 <p align="center">
-  <i>Crafting scalable, high-performance web applications with clean architecture and modern technologies.</i>
+  <i>Building scalable web applications with clean architecture and modern technologies.</i>
 </p>
 
 ---
 
 ## 🧠 About Me  
 
-I’m **Mariam Ezraidi**, a passionate **Full-Stack Developer** from Morocco 🇲🇦.  
-Currently training at **YOUCODE**, I specialize in building robust backend systems and modern web applications.  
+I’m **Mariam Ezraidi**, a passionate **Full-Stack Web Developer** from Morocco 🇲🇦, currently training at **YOUCODE**.  
 
-💡 I focus on writing **clean, maintainable, and scalable code** while constantly improving my technical and problem-solving skills.  
+💡 I focus on developing robust backend systems and interactive web applications using modern technologies.  
+I enjoy solving complex problems and writing clean, maintainable code.  
 
-- 🔥 Strong focus on **Backend Development (Laravel / PHP)**
-- ⚡ Passionate about **API design & system architecture**
-- 🧩 Problem solver with debugging mindset  
-- 🤝 Team player experienced in **Agile / Scrum environments**
-- 🎯 Goal: Become a **Software Engineer in high-impact tech teams**
+- 🔥 Backend-focused (Laravel / PHP)  
+- ⚡ Interested in API development & system design  
+- 🧩 Strong debugging & problem-solving mindset  
+- 🤝 Team collaboration (Agile / Scrum)  
+- 🎯 Goal: Become a professional Software Engineer  
 
 ---
 
 ## 🧰 Tech Stack  
 
-### 🖥 Frontend Development  
+### 🖥 Frontend  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### ⚙ Backend Development  
+### ⚙ Backend  
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
 </p>
 
-### 🗄 Database & Data Management  
+### 🗄 Databases  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
@@ -67,8 +67,8 @@ Currently training at **YOUCODE**, I specialize in building robust backend syste
 - ✅ SOLID Principles  
 - ✅ MVC Architecture  
 - ✅ Debugging & Performance Optimization  
-- ✅ Git Workflow & Version Control  
-- ✅ Agile / Scrum Methodology  
+- ✅ Git Workflow  
+- ✅ Agile / Scrum  
 
 ---
 
@@ -77,52 +77,39 @@ Currently training at **YOUCODE**, I specialize in building robust backend syste
 🔹 **EVolt API**  
 > REST API for managing electric vehicle charging stations  
 - Laravel API  
-- Authentication with Sanctum  
+- Authentication (Sanctum)  
 - Reservation system  
 - Real-time availability  
 
 🔹 **EasyColoc**  
 > Expense management app for shared apartments  
-- Full-stack Laravel app  
+- Full-stack Laravel application  
 - CRUD operations  
 - User collaboration  
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ---
 
 ## 📚 Currently Learning  
 
 - 🔥 Advanced Laravel (Queues, Jobs, Performance)  
-- ⚡ System Design Basics  
-- 🧠 Software Architecture Patterns  
+- ⚡ System Design  
+- 🧠 Software Architecture  
 - 🧩 Advanced API Development  
-- 🚀 DevOps Fundamentals  
 
 ---
 
 ## 🌐 Connect With Me  
 
 - 💬 Discord → **merry#4759**  
-- 📷 Instagram → [@mariam_ezraidii](https://instagram.com/mariam_ezraidii)  
+- 📷 Instagram → [@mariam_ezraidii](https://instagram.com/mariam_ezraidi)  
 - 📧 Email → **maezraid@gmail.com**
 
 ---
 
 <p align="center">
-  ⭐ <b>If you like my work, don't forget to follow me and star my repositories!</b> ⭐
+  ⭐ <b>If you like my work, feel free to follow me and star my repositories!</b> ⭐
 </p>
 
 <p align="center">
-  🚀 <i>Future Software Engineer — Building, Learning, Growing.</i>
+  🚀 <i>Future Software Engineer in progress...</i>
 </p>
