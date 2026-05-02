@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About Me  
+##  About Me  
 
 I’m **Mariam Ezraidi**, a passionate **Full-Stack Web Developer** from Morocco 🇲🇦, currently training at **YOUCODE**.  
 
