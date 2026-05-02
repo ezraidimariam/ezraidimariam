@@ -100,7 +100,7 @@ I enjoy solving complex problems and writing clean, maintainable code.
 
 ## 🌐 Connect With Me  
 
-- 💼 LinkedIn → [Mariam Ezraidi](https://www.linkedin.com/in/mariam-ezraidi-1b0a8a2a0)
+- 💼 LinkedIn → [Mariam Ezraidi](https://www.linkedin.com/in/mariam-ezraidi-72a057396)
 - 💬 Discord → **merry#4759**  
 - 📷 Instagram → [@mariam_ezraidii](https://instagram.com/mariam_ezraidi)  
 - 📧 Email → **maezraid@gmail.com**
