@@ -1,117 +1,51 @@
-<h1 align="center">👋 Hi, I'm Mariam Ezraidi</h1>
-
-<p align="center">
-  🚀 <b>Full-Stack Web Developer | Backend Enthusiast | Laravel & React</b>
-</p>
-
-<p align="center">
-  <i>Building scalable web applications with clean architecture, robust APIs, and modern frontends.</i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mariam-ezraidi-72a057396"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:maezraid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
+# Mariam Ezraidi
+**Software Engineer & Full-Stack Web Developer**
 
 ---
 
-## 💻 About Me  
+### Profile
+Full-Stack Web Developer specializing in scalable backend architectures and dynamic frontends. Focused on building high-performance systems with strict adherence to design patterns, security standards, and performance optimization.
 
-I’m **Mariam Ezraidi**, a passionate **Full-Stack Web Developer** from Morocco 🇲🇦, currently sharpening my skills at **YOUCODE**.  
-
-I specialize in building robust backend ecosystems and seamless, interactive frontend experiences. Deeply committed to writing clean, maintainable, and highly optimized code, I approach every challenge with a strong engineering mindset and a focus on software engineering best practices.
-
-* 🧠 **Backend Core:** Advanced PHP & Laravel Architecture
-* 🎨 **Modern Frontend:** Building dynamic UIs with React.js & Tailwind CSS
-* 🏗️ **Architectural Focus:** RESTful APIs, SOLID principles, and clean system design
-* 🤝 **Methodology:** Agile/Scrum environment and collaborative Git workflows
-* 🎯 **Career Goal:** Evolving into a highly proficient Software Engineer
+* 🌐 **Location:** Morocco 🇲🇦
+* 💼 **LinkedIn:** [linkedin.com/in/mariam-ezraidi](https://www.linkedin.com/in/mariam-ezraidi-72a057396)
+* 📧 **Email:** `maezraid@gmail.com`
 
 ---
 
-## 🧰 Tech Stack & Tools
+### Core Competencies
 
-### 🖥️ Frontend Development
+* **Backend Architecture:** PHP, Advanced Laravel, Node.js, Express, RESTful API Design, MVC
+* **Frontend Systems:** JavaScript (ES6+), TypeScript, React.js, Tailwind CSS
+* **Data Management:** MySQL, PostgreSQL, MongoDB, Redis Caching, Query Profiling
+* **DevOps & Environment:** Git Workflow, Docker, Linux (Ubuntu), Postman
+
+---
+
+### Engineering Standards & Practices
+
+* **Design Patterns:** OOP, SOLID Principles, Service-Repository Pattern, DRY Architecture
+* **Database Optimization:** Eloquent ORM tuning, strategic indexing, query performance analysis
+* **Security:** Multi-tenant Role-Based Access Control (RBAC), Token Authentication (Sanctum)
+
+---
+
+### Key Production Repositories
+
+#### ⚡ EVolt API
+> **Enterprise RESTful API** architected for smart electric vehicle charging station logistics.
+* **Stack:** Laravel | PostgreSQL | Sanctum Security
+* **Implementation:** Engineered a high-concurrency reservation engine managing real-time slots and secure, tiered data access.
+
+#### 🏠 EasyColoc
+> **Full-Stack Application** designed for seamless, real-time shared logistics and financial coordination.
+* **Stack:** React.js Engine | Laravel API | MySQL | Tailwind UI
+* **Implementation:** Built a fully decoupled Single Page Application (SPA) utilizing an automated mathematical ledger for dynamic balance calculations.
+
+---
+
+### Repository Diagnostics
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
-  </a>
-</p>
-
-### ⚙️ Backend Development & Architecture
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
-  </a>
-</p>
-
-### 🗄️ Databases & Caching
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-  </a>
-</p>
-
-### 🛠️ Tools & DevOps Environment
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode,figma" />
-  </a>
-</p>
-
----
-
-## 🧪 Engineering Practices
-
-* **Architecture:** MVC, RESTful API Design, Microservices Concepts
-* **Standards:** SOLID Principles, Clean Code, DRY, OOP
-* **Database Optimization:** Eloquent ORM tuning, Complex Queries, Indexing
-* **Security:** Token-based Authentication (Laravel Sanctum), Data Validation
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 EVolt API
-> **RESTful API** designed for managing electric vehicle charging stations seamlessly.
-* **Backend:** `Laravel` | `Sanctum` | `PostgreSQL`
-* **Features:** Secure multi-role authentication, real-time station availability mapping, and a smart reservation scheduling engine.
-
-### 🔹 EasyColoc
-> **Full-Stack Web Application** engineered to streamline shared apartment logistics and expenses.
-* **Stack:** `Laravel` | `React.js` | `Tailwind CSS` | `MySQL`
-* **Features:** Interactive group ledger, real-time balance calculations, collaborative dashboard, and automated recurring bill tracking.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariamezraid&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="Mariam's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamezraid&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamezraid&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="99%"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-* 💼 **LinkedIn** → [linkedin.com/in/mariam-ezraidi](https://www.linkedin.com/in/mariam-ezraidi-72a057396)
-* 📧 **Professional Email** → `maezraid@gmail.com`
-* 💬 **Discord** → `merry#4759`
-
-<p align="center">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
-</p>
-
-<p align="center">
-  🚀 <i>Continuous learning and building the future of web applications...</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=mariamezraid&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamezraid&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" />
 </p>
