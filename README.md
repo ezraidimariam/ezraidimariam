@@ -1,101 +1,99 @@
-<h1 align="center">⚡ Mariam Ezraidi</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<h1 align="center">👋 Hi, I'm Mariam Ezraidi</h1>
 
 <p align="center">
   <b>Software Engineer & Full-Stack Developer</b><br>
-  <span>Architecting Clean Backends • Crafting Interactive Frontends</span>
+  <i>Architecting high-performance backends and clean frontend ecosystems.</i>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mariam-ezraidi-72a057396"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:maezraid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mariam-ezraidi-72a057396"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> · 
+  <a href="mailto:maezraid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
-## 🌐 Overview
-
-I am a **Full-Stack Developer** specializing in building high-performance, scalable web applications. Focused heavily on backend ecosystem stability using **Laravel/PHP**, combined with modern frontend solutions using **React.js & TypeScript**, I design software with strict adherence to clean code principles and robust architecture patterns.
-
-* 🚀 **Core Focus:** Enterprise RESTful APIs, Database Optimization, System Architecture.
-* 🛠️ **Engineering Mindset:** Strongly committed to writing testable, maintainable, and secure code.
-* 🤝 **Methodologies:** Agile/Scrum environment and collaborative Git workflows.
 
 ---
 
-## 🧰 Tech Stack Matrix
+### 🌐 Overview
+I am a dedicated **Full-Stack Developer** focused on building enterprise-grade applications. Specializing in advanced **Laravel/PHP** architectures and modern **React.js** frontend systems, I design robust software engineered for speed, clean scalability, and high security.
+
+* 🚀 **Core Focus:** RESTful APIs, Database Architecture, Performance Tuning.
+* 🛡️ **Engineering:** SOLID Principles, Domain Logic, and Secure Authentication.
+* 🤝 **Workflow:** Agile/Scrum, Git-flow, and Testable Development.
+
+---
+
+### 🧰 Technical Capabilities
 
 <table>
   <tr>
-    <td width="20%"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend Architecture</h4>
+      <ul>
+        <li><b>Languages:</b> PHP (Advanced), Node.js, JavaScript</li>
+        <li><b>Frameworks:</b> Laravel, Express.js, MVC Pattern</li>
+        <li><b>Concepts:</b> RESTful APIs, Sanctum Auth, Queues</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🖥️ Frontend Engineering</h4>
+      <ul>
+        <li><b>Languages:</b> TypeScript, JavaScript (ES6+)</li>
+        <li><b>UI Frameworks:</b> React.js, Next.js, HTML5/CSS3</li>
+        <li><b>Styling:</b> Tailwind CSS, Responsive Design</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+    <td width="50%" valign="top">
+      <h4>🗄️ Database & Optimization</h4>
+      <ul>
+        <li><b>SQL:</b> MySQL, PostgreSQL (Complex Queries)</li>
+        <li><b>NoSQL:</b> MongoDB</li>
+        <li><b>Caching:</b> Redis, Eloquent Eager Loading</li>
+      </ul>
     </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps & Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+    <td width="50%" valign="top">
+      <h4>🛠️ DevOps & Tooling</h4>
+      <ul>
+        <li><b>Version Control:</b> Git & Advanced GitHub Workflows</li>
+        <li><b>Environment:</b> Docker, Linux Systems, VSCode</li>
+        <li><b>Testing:</b> Postman API Client, Unit Testing</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 High-Impact Productions
+### 🚀 Production Portfolio
 
-#### ⚡ EVolt API | *Smart Charging Station Management*
-* **Architecture:** RESTful API built with **Laravel**, **PostgreSQL**, and secured via **Sanctum**.
-* **Key Delivery:** Implemented a secure multi-tenant role management system and developed a high-concurrency reservation engine managing real-time station availability.
+🔹 **EVolt API** — *Smart Electric Vehicle Charging Station Network*
+* `Laravel` | `PostgreSQL` | `Sanctum Security`
+* Engineered a high-concurrency reservation scheduling system and multi-tenant Role-Based Access Control (RBAC).
 
-#### 🏠 EasyColoc | *Full-Stack Shared Logistics Platform*
-* **Stack:** **React.js** (Frontend) + **Laravel API** (Backend) + **MySQL** + **Tailwind CSS**.
-* **Key Delivery:** Built a fully decoupled Single Page Application (SPA). Designed an automated ledger system calculating debt balances across multiple users in real time.
-
----
-
-## 📊 Live System Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="99%"/>
-</p>
+🔹 **EasyColoc** — *Full-Stack Financial Logistics App*
+* `React.js` | `Laravel API` | `MySQL` | `Tailwind CSS`
+* Developed a fully decoupled single-page application integrating a real-time mathematical ledger for automated balance redistribution.
 
 ---
 
-## 📬 Network Handshake
+### 📊 Live System Analytics
 
-```bash
-$ curl -X GET "[https://api.mariam.dev/connect](https://api.mariam.dev/connect)" \
-  -H "Accept: application/json" \
-  -d '{
-    "linkedin": "[linkedin.com/in/mariam-ezraidi](https://linkedin.com/in/mariam-ezraidi)",
-    "discord": "merry#4759",
-    "email": "maezraid@gmail.com"
-  }'
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezraidimariam&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezraidimariam&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezraidimariam&theme=tokyonight&hide_border=true" width="99%"/>
+</p>
+
+---
+
+### 📬 Let's Connect
+* **LinkedIn:** [linkedin.com/in/mariam-ezraidi](https://www.linkedin.com/in/mariam-ezraidi-72a057396)
+* **Professional Mail:** `maezraid@gmail.com`
+* **Discord:** `merry#4759`
