@@ -1,68 +1,110 @@
-# Hi, I'm Mariam Ezraidi 👋
+<div align="center">
 
-### Full-Stack Developer • Laravel & React Engineer
+# Mariam Ezraidi
 
-I build scalable web applications with a strong focus on backend architecture, performance, and clean UI experiences.
+### Full-Stack Engineer • Laravel & React Developer
 
-* ⚡ Backend development with Laravel & PHP
-* 🎨 Frontend interfaces using React, Next.js & TypeScript
-* 🗄️ Database optimization with MySQL & PostgreSQL
-* 🔐 Authentication, API security & scalable architectures
-* 🐳 Docker-based development environments
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Laravel+%7C+React+%7C+TypeScript;Backend+Architecture+%26+Modern+UI;Clean+Code+%2B+Performance+Focused" />
 
----
+<br/>
 
-## 🚀 Tech Stack
+<a href="https://linkedin.com/in/mariam-ezraidi-72a057396">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
 
-### Backend
+<a href="https://instagram.com/mariam_ezraidi">
+  <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
 
-`PHP` `Laravel` `Node.js` `Express.js` `REST APIs`
+<a href="mailto:maezraid@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
-### Frontend
-
-`React.js` `Next.js` `TypeScript` `Tailwind CSS`
-
-### Databases & Tools
-
-`MySQL` `PostgreSQL` `MongoDB` `Redis`
-
-### DevOps & Workflow
-
-`Docker` `Git` `GitHub` `Linux`
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 💫 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezraidimariam&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+```ts
+const mariam = {
+  role: "Full-Stack Engineer",
+  
+  backend: [
+    "Laravel",
+    "PHP",
+    "Node.js",
+    "REST APIs"
+  ],
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezraidimariam&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+  frontend: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
+
+  databases: [
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis"
+  ],
+
+  currentlyLearning: [
+    "System Design",
+    "Scalable Architecture",
+    "Performance Optimization"
+  ]
+};
+```
 
 ---
 
-## 🌍 Connect With Me
+# ⚡ Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mariam-ezraidi-72a057396">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<div align="center">
 
-  <a href="https://instagram.com/mariam_ezraidi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,ts,js,nodejs,express,mysql,postgres,mongodb,redis,docker,linux,git,github,vscode&theme=dark" />
 
-  <a href="mailto:maezraid@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 💡 Current Focus
+# 📊 GitHub Analytics
 
-* Building scalable Laravel applications
-* Improving system design & backend performance
-* Advanced React & Next.js architectures
-* Writing cleaner and maintainable code
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezraidimariam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezraidimariam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ezraidimariam&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+* Building scalable Laravel systems
+* Advanced React architecture
+* API security & optimization
+* Clean and maintainable codebases
+* Performance-first applications
+
+---
+
+<div align="center">
+
+### “Code should be scalable, readable, and built with purpose.”
+
+</div>
