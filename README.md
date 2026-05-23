@@ -70,6 +70,10 @@ I am a dedicated **Full-Stack Developer** focused on building enterprise-grade a
 
 ### 🚀 Production Portfolio
 
+🔹 **DEV↑UP** — *Gamified Focus & Discipline Platform for Developers*
+* `Laravel` | `React.js` | `Tailwind CSS` | `MySQL`
+* Engineered a gamified web ecosystem designed to help students maintain deep focus and programming discipline through interactive tracking and level-up mechanics.
+
 🔹 **EVolt API** — *Smart Electric Vehicle Charging Station Network*
 * `Laravel` | `PostgreSQL` | `Sanctum Security`
 * Engineered a high-concurrency reservation scheduling system and multi-tenant Role-Based Access Control (RBAC).
@@ -94,6 +98,4 @@ I am a dedicated **Full-Stack Developer** focused on building enterprise-grade a
 ---
 
 ### 📬 Let's Connect
-* **LinkedIn:** [linkedin.com/in/mariam-ezraidi](https://www.linkedin.com/in/mariam-ezraidi-72a057396)
-* **Professional Mail:** `maezraid@gmail.com`
 * **Discord:** `merry#4759`
