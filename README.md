@@ -78,17 +78,6 @@ I am a **Full-Stack Web Developer** specializing in building scalable web soluti
 
 <br>
 
-### 📊 Git Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO_GITHUB&show_icons=true&theme=calm&rank_icon=github&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO_GITHUB&layout=compact&theme=calm&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
 ### 📬 Connect Ecosystem
 * 💼 **LinkedIn** — [linkedin.com/in/mariam-ezraidi](https://www.linkedin.com/in/mariam-ezraidi-72a057396)
 * 📧 **Email** — `maezraid@gmail.com`
