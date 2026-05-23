@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=👋+Hi,+I'm+Mariam+Ezraidi;Software+Engineer;Full-Stack+Web+Developer;Laravel+%26+React+Specialist" alt="Typing Effect" />
+  </a>
 </p>
 
-<h1 align="center">👋 Hi, I'm Mariam Ezraidi</h1>
-
 <p align="center">
-  <b>Software Engineer & Full-Stack Developer</b><br>
-  <i>Architecting high-performance backends and clean frontend ecosystems.</i>
+  <b>Architecting high-concurrency backends and optimized user ecosystems.</b>
 </p>
 
 <p align="center">
@@ -17,72 +16,66 @@
 
 ---
 
-### 🌐 Overview
-I am a dedicated **Full-Stack Developer** focused on building enterprise-grade applications. Specializing in advanced **Laravel/PHP** architectures and modern **React.js** frontend systems, I design robust software engineered for speed, clean scalability, and high security.
+### 🌐 System Summary
 
-* 🚀 **Core Focus:** RESTful APIs, Database Architecture, Performance Tuning.
-* 🛡️ **Engineering:** SOLID Principles, Domain Logic, and Secure Authentication.
-* 🤝 **Workflow:** Agile/Scrum, Git-flow, and Testable Development.
+I am a driven **Full-Stack Engineer** dedicated to building enterprise-grade applications. Operating heavily within the **Laravel/PHP** ecosystem for robust backend engineering and leveraging **React.js & TypeScript** for highly interactive frontends, my codebase strict protocols center around SOLID paradigms, scalable data architectures, and rigorous security patterns.
 
 ---
 
-### 🧰 Technical Capabilities
+### 🧰 Technical Capabilities Matrix
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>⚙️ Backend Architecture</h4>
-      <ul>
-        <li><b>Languages:</b> PHP (Advanced), Node.js, JavaScript</li>
-        <li><b>Frameworks:</b> Laravel, Express.js, MVC Pattern</li>
-        <li><b>Concepts:</b> RESTful APIs, Sanctum Auth, Queues</li>
-      </ul>
+      <code>PHP Core</code> • <code>Laravel Framework</code> • <code>Node.js</code><br>
+      <code>Express.js</code> • <code>RESTful API Design</code> • <code>MVC Pattern</code><br>
+      <code>Service-Repository Layers</code> • <code>Sanctum Auth</code>
     </td>
     <td width="50%" valign="top">
       <h4>🖥️ Frontend Engineering</h4>
-      <ul>
-        <li><b>Languages:</b> TypeScript, JavaScript (ES6+)</li>
-        <li><b>UI Frameworks:</b> React.js, Next.js, HTML5/CSS3</li>
-        <li><b>Styling:</b> Tailwind CSS, Responsive Design</li>
-      </ul>
+      <code>JavaScript (ES6+)</code> • <code>TypeScript</code> • <code>React.js Engine</code><br>
+      <code>Next.js Framework</code> • <code>Tailwind CSS</code> • <code>State Management</code><br>
+      <code>Component-Driven UI Design</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🗄️ Database & Optimization</h4>
-      <ul>
-        <li><b>SQL:</b> MySQL, PostgreSQL (Complex Queries)</li>
-        <li><b>NoSQL:</b> MongoDB</li>
-        <li><b>Caching:</b> Redis, Eloquent Eager Loading</li>
-      </ul>
+      <h4>🗄️ Databases & Cache Layers</h4>
+      <code>MySQL</code> • <code>PostgreSQL (Complex Tuning)</code> • <code>MongoDB</code><br>
+      <code>Redis Caching</code> • <code>Eloquent ORM Tuning</code> • <code>Query Profiling</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ DevOps & Tooling</h4>
-      <ul>
-        <li><b>Version Control:</b> Git & Advanced GitHub Workflows</li>
-        <li><b>Environment:</b> Docker, Linux Systems, VSCode</li>
-        <li><b>Testing:</b> Postman API Client, Unit Testing</li>
-      </ul>
+      <h4>🛠️ Systems & Environment</h4>
+      <code>Git Workflow</code> • <code>GitHub Infrastructure</code> • <code>Docker Containers</code><br>
+      <code>Linux Environments</code> • <code>Postman API Client</code> • <code>Agile / Scrum</code>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Live System Analytics
+### 📊 Real-Time Repository Diagnostics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezraidimariam&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezraidimariam&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezraidimariam&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezraidimariam&theme=tokyonight&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezraidimariam&theme=dark&hide_border=true&background=0d1117&title=00f2fe&ring=00f2fe&fire=00f2fe&currStreakNum=c9d1d9" width="99%"/>
 </p>
 
 ---
 
-### 📬 Let's Connect
-* **LinkedIn:** [linkedin.com/in/mariam-ezraidi](https://www.linkedin.com/in/mariam-ezraidi-72a057396)
-* **Instagram:** [@mariam_ezraidi](https://instagram.com/mariam_ezraidi)
-* **Professional Mail:** `maezraid@gmail.com`
-* **Discord:** `merry#4759`
+### 📬 Network Handshake
+
+```bash
+$ curl -X GET "[https://api.mariam.dev/connect](https://api.mariam.dev/connect)" \
+  -H "Accept: application/json" \
+  -d '{
+    "linkedin": "[linkedin.com/in/mariam-ezraidi](https://linkedin.com/in/mariam-ezraidi)",
+    "instagram": "[instagram.com/mariam_ezraidi](https://instagram.com/mariam_ezraidi)",
+    "email": "maezraid@gmail.com",
+    "discord": "merry#4759"
+  }'
