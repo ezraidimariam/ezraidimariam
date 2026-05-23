@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mariam Ezraidi</h1>
-
 <p align="center">
-  🚀 <b>Full-Stack Web Developer | Backend Enthusiast | Laravel & React</b>
-</p>
-
-<p align="center">
-  <i>Building scalable web applications with clean architecture, robust APIs, and modern frontends.</i>
+  <b>Software Engineer & Full-Stack Web Developer</b><br>
+  <i>Crafting high-performance web applications with robust backend architectures and dynamic frontends.</i>
 </p>
 
 <p align="center">
@@ -13,92 +9,87 @@
   <a href="mailto:maezraid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
-
-## 💻 About Me  
-
-I’m **Mariam Ezraidi**, a passionate **Full-Stack Web Developer** from Morocco 🇲🇦, currently sharpening my skills at **YOUCODE**.  
-
-I specialize in building robust backend ecosystems and seamless, interactive frontend experiences. Deeply committed to writing clean, maintainable, and highly optimized code, I approach every challenge with a strong debugging mindset and a focus on software engineering best practices.
-
-- 🧠 **Backend Core:** Advanced PHP & Laravel Architecture
-- 🎨 **Modern Frontend:** Building dynamic UIs with React.js & Tailwind CSS
-- 🏗️ **Architectural Focus:** RESTful APIs, SOLID principles, and clean system design
-- 🤝 **Methodology:** Agile/Scrum environment and collaborative Git workflows
-- 🎯 **Career Goal:** Evolving into a highly proficient Software Engineer
-
----
-
-## 🧰 Tech Stack & Tools
-
-### 🖥️ Frontend Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-### ⚙️ Backend Development & Architecture
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
-  </a>
-</p>
+### 🌐 Overview
+I am a **Full-Stack Web Developer** specializing in building scalable web solutions. With a heavy focus on the **Laravel/PHP** ecosystem for backend stability and **React.js / TypeScript** for interactive user interfaces, I design applications with strict adherence to clean code and modern software design patterns.
 
-### 🗄️ Databases & Caching
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-  </a>
-</p>
+* 🚀 **Core Expertise:** Enterprise RESTful APIs, Database Optimization, System Architecture.
+* 🛠️ **Engineering Mindset:** Committed to writing testable, maintainable, and highly secure code.
+* 🤝 **Methodologies:** Agile/Scrum environment, collaborative Git workflows, and continuous integration.
 
-### 🛠️ Tools & DevOps Environment
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode,figma" />
-  </a>
-</p>
+<br>
 
----
+### 🧰 Technical Ecosystem
 
-## 🧪 Engineering Practices
+<table>
+  <tr>
+    <td width="20%"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+    </td>
+  </tr>
+</table>
 
-* **Architecture:** MVC, RESTful API Design, Microservices Concepts
-* **Standards:** SOLID Principles, Clean Code, DRY, OOP
-* **Database Optimization:** Eloquent ORM tuning, Complex Queries, Indexing
-* **Security:** Token-based Authentication (Laravel Sanctum/Passport), Data Validation
+<br>
 
----
+### 🚀 Featured Engineering Projects
 
-## 🚀 Featured Projects
+#### ⚡ EVolt API
+> **Enterprise-grade RESTful API** architected for smart electric vehicle charging station logistics.
+* **Stack:** `Laravel` | `PostgreSQL` | `Sanctum`
+* **Impact:** Developed a high-concurrency reservation engine managing real-time station availability with an optimized multi-tenant RBAC (Role-Based Access Control) system.
 
-### 🔹 EVolt API
-> **RESTful API** designed for managing electric vehicle charging stations seamlessly.
-* **Backend:** `Laravel` | `Sanctum` | `PostgreSQL`
-* **Features:** Secure multi-role authentication, real-time station availability mapping, and a smart reservation scheduling engine.
+#### 🏠 EasyColoc
+> **Full-Stack Application** engineered to streamline shared apartment expenses and collaboration.
+* **Stack:** `React.js` | `Laravel API` | `MySQL` | `Tailwind CSS`
+* **Impact:** Designed a fully decoupled Single Page Application (SPA). Built an automated real-time group ledger calculating debt distribution dynamically.
 
-### 🔹 EasyColoc
-> **Full-Stack Web Application** engineered to streamline shared apartment logistics and expenses.
-* **Stack:** `Laravel` | `React.js` | `Tailwind CSS` | `MySQL`
-* **Features:** Interactive group ledger, real-time balance calculations, collaborative dashboard, and automated recurring bill tracking.
+<br>
 
----
-
-## 📊 GitHub Analytics
+### 📊 Git Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO_GITHUB&show_icons=true&theme=radical&rank_icon=github" alt="Mariam's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO_GITHUB&layout=compact&theme=radical" alt="Most Used Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO_GITHUB&show_icons=true&theme=calm&rank_icon=github&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO_GITHUB&layout=compact&theme=calm&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
-
----
-
-## 🌐 Connect With Me
-
-* 💼 **LinkedIn** → [linkedin.com/in/mariam-ezraidi](https://www.linkedin.com/in/mariam-ezraidi-72a057396)
-* 📧 **Professional Email** → `maezraid@gmail.com`
-* 💬 **Discord** → `merry#4759`
 
 <p align="center">
-  🚀 <i>Continuous learning and building the future of web applications...</i>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
+
+### 📬 Connect Ecosystem
+* 💼 **LinkedIn** — [linkedin.com/in/mariam-ezraidi](https://www.linkedin.com/in/mariam-ezraidi-72a057396)
+* 📧 **Email** — `maezraid@gmail.com`
+* 💬 **Discord** — `merry#4759`
