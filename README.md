@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariam-ezraidi-72a057396"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> · 
+  <a href="https://instagram.com/mariam_ezraidi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a> · 
   <a href="mailto:maezraid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -68,34 +69,20 @@ I am a dedicated **Full-Stack Developer** focused on building enterprise-grade a
 
 ---
 
-### 🚀 Production Portfolio
-
-🔹 **DEV↑UP** — *Gamified Focus & Discipline Platform for Developers*
-* `Laravel` | `React.js` | `Tailwind CSS` | `MySQL`
-* Engineered a gamified web ecosystem designed to help students maintain deep focus and programming discipline through interactive tracking and level-up mechanics.
-
-🔹 **EVolt API** — *Smart Electric Vehicle Charging Station Network*
-* `Laravel` | `PostgreSQL` | `Sanctum Security`
-* Engineered a high-concurrency reservation scheduling system and multi-tenant Role-Based Access Control (RBAC).
-
-🔹 **EasyColoc** — *Full-Stack Financial Logistics App*
-* `React.js` | `Laravel API` | `MySQL` | `Tailwind CSS`
-* Developed a fully decoupled single-page application integrating a real-time mathematical ledger for automated balance redistribution.
-
----
-
 ### 📊 Live System Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezraidimariam&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezraidimariam&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezraidimariam&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezraidimariam&theme=tokyonight&hide_border=true" width="99%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezraidimariam&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
 
 ---
 
 ### 📬 Let's Connect
+* **LinkedIn:** [linkedin.com/in/mariam-ezraidi](https://www.linkedin.com/in/mariam-ezraidi-72a057396)
+* **Instagram:** [@mariam_ezraidi](https://instagram.com/mariam_ezraidi)
+* **Professional Mail:** `maezraid@gmail.com`
 * **Discord:** `merry#4759`
