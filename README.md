@@ -79,12 +79,12 @@ I am a **Full-Stack Developer** specializing in building high-performance, scala
 ## 📊 Live System Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariamezraid&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamezraid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamezraid&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="99%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="99%"/>
 </p>
 
 ---
