@@ -1,7 +1,11 @@
-<h1 align="center">👋 Hi, I'm Mariam Ezraidi</h1>
+<!-- HEADER DESIGN -->
 <p align="center">
-  <b>Software Engineer & Full-Stack Web Developer</b><br>
-  <i>Crafting high-performance web applications with robust backend architectures and dynamic frontends.</i>
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=11,15&height=180&section=header&text=Mariam%20Ezraidi&fontSize=45&animation=twinkling&fontColor=ffffff" width="100%" />
+</p>
+
+<p align="center">
+  <font size="4"><b>💻 Software Engineer & Full-Stack Developer</b></font><br>
+  <span>Architecting high-performance web ecosystems • Frontend Elegance • Backend Stability</span>
 </p>
 
 <p align="center">
@@ -10,86 +14,86 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://assets.digitalocean.com/blog/custom-images/v1-interactive-tutorial-css-gradients/linear-gradient-syntax.png" height="3px" width="100%">
 </p>
 
-### 🌐 Overview
-I am a **Full-Stack Web Developer** specializing in building scalable web solutions. With a heavy focus on the **Laravel/PHP** ecosystem for backend stability and **React.js / TypeScript** for interactive user interfaces, I design applications with strict adherence to clean code and modern software design patterns.
+## 🗺️ Executive Summary
 
-* 🚀 **Core Expertise:** Enterprise RESTful APIs, Database Optimization, System Architecture.
-* 🛠️ **Engineering Mindset:** Committed to writing testable, maintainable, and highly secure code.
-* 🤝 **Methodologies:** Agile/Scrum environment, collaborative Git workflows, and continuous integration.
+I am a driven **Full-Stack Developer** dedicated to building robust, enterprise-grade web applications. Specializing in the **Laravel/PHP** backend ecosystem and modern **React.js** frontend architectures, I write scalable, self-documenting code modeled around strict software engineering patterns.
 
-<br>
+* ⚙️ **Backend Engineering:** Advanced API Design, Queue Management, Query Profiling & Optimization.
+* ⚛️ **Frontend Engineering:** Component-Driven Architecture, State Management, Responsive Design.
+* 🛡️ **DevOps & Standards:** SOLID Principles, Data Integrity/Security, Dockerized Environments.
 
-### 🧰 Technical Ecosystem
+---
+
+## 🧰 Tech Stack Matrix
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,tailwind,nodejs,express,mysql,postgres,mongodb,redis,git,docker,linux,postman,figma&perline=9" />
+  </a>
+</p>
+
+---
+
+## 🚀 High-Impact Engineering Projects
 
 <table>
   <tr>
-    <td width="20%"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+    <td width="50%" valign="top">
+      <h3>⚡ EVolt API</h3>
+      <p><i>Enterprise RESTful API for smart electric vehicle charging networks.</i></p>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Sanctum-Security-green?style=flat-square"/>
+      <ul>
+        <li>Architected a high-concurrency reservation engine managing real-time slots.</li>
+        <li>Implemented multi-tenant Role-Based Access Control (RBAC).</li>
+        <li>Optimized database response times via strategic indexing.</li>
+      </ul>
     </td>
-  </tr>
-  <tr>
-    <td><b>Tools & DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+    <td width="50%" valign="top">
+      <h3>🏠 EasyColoc</h3>
+      <p><i>Full-Stack decoupled ecosystem for shared apartment logistics.</i></p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Laravel_API-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      <ul>
+        <li>Built a fully responsive SPA with dynamic state management.</li>
+        <li>Developed an automated real-time ledger for financial math distribution.</li>
+        <li>Designed comprehensive user collaboration analytics dashboards.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-### 🚀 Featured Engineering Projects
-
-#### ⚡ EVolt API
-> **Enterprise-grade RESTful API** architected for smart electric vehicle charging station logistics.
-* **Stack:** `Laravel` | `PostgreSQL` | `Sanctum`
-* **Impact:** Developed a high-concurrency reservation engine managing real-time station availability with an optimized multi-tenant RBAC (Role-Based Access Control) system.
-
-#### 🏠 EasyColoc
-> **Full-Stack Application** engineered to streamline shared apartment expenses and collaboration.
-* **Stack:** `React.js` | `Laravel API` | `MySQL` | `Tailwind CSS`
-* **Impact:** Designed a fully decoupled Single Page Application (SPA). Built an automated real-time group ledger calculating debt distribution dynamically.
-
-<br>
-
-### 📊 Git Metrics
+## 📊 Live DevOps Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO_GITHUB&show_icons=true&theme=calm&rank_icon=github&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO_GITHUB&layout=compact&theme=calm&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO_GITHUB&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_PSEUDO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_PSEUDO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="99%"/>
 </p>
 
-### 📬 Connect Ecosystem
-* 💼 **LinkedIn** — [linkedin.com/in/mariam-ezraidi](https://www.linkedin.com/in/mariam-ezraidi-72a057396)
-* 📧 **Email** — `maezraid@gmail.com`
-* 💬 **Discord** — `merry#4759`
+---
+
+## 📬 Communication Hub
+
+<p align="left">
+  🤝 <b>Looking for enterprise collaborations, backend engineering challenges, or full-stack opportunities.</b>
+</p>
+
+* 💼 **LinkedIn:** [linkedin.com/in/mariam-ezraidi](https://www.linkedin.com/in/mariam-ezraidi-72a057396)
+* 📧 **Secure Mail:** `maezraid@gmail.com`
+* 💬 **Discord:** `merry#4759`
+
+<p align="center">
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+</p>
