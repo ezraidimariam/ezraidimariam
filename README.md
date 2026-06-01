@@ -79,6 +79,4 @@ I am a **Full-Stack Web Developer** specializing in building scalable web soluti
 <br>
 
 ### 📬 Connect Ecosystem
-* 💼 **LinkedIn** — [linkedin.com/in/mariam-ezraidi](https://www.linkedin.com/in/mariam-ezraidi-72a057396)
-* 📧 **Email** — `maezraid@gmail.com`
 * 💬 **Discord** — `merry#4759`
