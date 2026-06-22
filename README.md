@@ -64,19 +64,7 @@ I am a **Full-Stack Web Developer** specializing in building scalable web soluti
 
 <br>
 
-### 🚀 Featured Engineering Projects
-
-#### ⚡ EVolt API
-> **Enterprise-grade RESTful API** architected for smart electric vehicle charging station logistics.
-* **Stack:** `Laravel` | `PostgreSQL` | `Sanctum`
-* **Impact:** Developed a high-concurrency reservation engine managing real-time station availability with an optimized multi-tenant RBAC (Role-Based Access Control) system.
-
-#### 🏠 EasyColoc
-> **Full-Stack Application** engineered to streamline shared apartment expenses and collaboration.
-* **Stack:** `React.js` | `Laravel API` | `MySQL` | `Tailwind CSS`
-* **Impact:** Designed a fully decoupled Single Page Application (SPA). Built an automated real-time group ledger calculating debt distribution dynamically.
-
-<br>
+#
 
 ### 📬 Connect Ecosystem
 * 💬 **Discord** — `merry#4759`
